@@ -1,0 +1,8 @@
+[package]
+name = "sinopay"
+description = "通用支付"
+version.workspace = true
+license.workspace = true
+edition.workspace = true
+
+[dependencies]

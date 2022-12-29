@@ -1,0 +1,8 @@
+[package]
+name = "sinopay-alipay"
+description = "通用支付-支付宝"
+version.workspace = true
+license.workspace = true
+edition.workspace = true
+
+[dependencies]

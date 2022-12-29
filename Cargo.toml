@@ -1,8 +1,12 @@
-[package]
-name = "sinopay"
+[workspace]
+members = [
+    "sinopay-alipay",
+    "sinopay-unionpay",
+    "sinopay-wechatpay",
+    "sinopay",
+]
+
+[workspace.package]
 version = "0.0.1"
-description = "通用支付"
 license = "Apache-2.0"
 edition = "2021"
-
-[dependencies]
